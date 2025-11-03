@@ -1,6 +1,5 @@
 
 // The export statement makes these settings available to other files in 11ty
-Lab Requirements
 
 module.exports = function(eleventyConfig) {
   // Shortcode: "Never leave home without it"
