@@ -1,6 +1,6 @@
 body {
     font-family: Helvetica, sans-serif;
-    color: #EAE8FF;
+    color: #386FA4;
     background: #84D2F6;
     padding: 0 40px;
     text-align: center;
@@ -31,6 +31,21 @@ nav ul li a {
     color: #EAE8FF;
     text-decoration: none;
     font-size: 1.2em;
+}
+
+.card-image {
+  width: 100%;
+  height: 120px;
+  object-fit: cover;
+  border-radius: var(--radius);
+}
+
+.item-photo {
+  width: 300px;       
+  height: auto;       
+  display: block;     
+  margin: 0 auto;    
+  border-radius: 8px; 
 }
 
 h1 {
